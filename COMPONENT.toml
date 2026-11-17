@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-bsd-nomad"
-description = "NomadBSD live persistence and USB workstation integration"
+description = "SigmaOS BSD Nomad - Portable BSD for live USB environments"
 version = "0.1.0"
 tier = 4
 
